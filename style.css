@@ -73,7 +73,13 @@ a{
 
 #section6{
     height: 700px;
-    background: rgb(218, 60, 121);
+    background: rgb(19, 116, 99);
     display: inline-block;
     width: 100%;
+}
+
+h1{
+    margin: 100px;
+    text-align: center;
+    padding: 0;
 }
