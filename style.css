@@ -35,3 +35,45 @@ a{
     text-transform: uppercase;
     font-weight: bold;
 }
+
+#section1{
+    height: 700px;
+    background: mintcream;
+    display: inline-block;
+    width: 100px;
+}
+
+#section2{
+    height: 700px;
+    background: peru;
+    display: inline-block;
+    width: 100px;
+}
+
+#section3{
+    height: 700px;
+    background: rgb(8, 253, 130);
+    display: inline-block;
+    width: 100px;
+}
+
+#section4{
+    height: 700px;
+    background: rgb(255, 251, 0);
+    display: inline-block;
+    width: 100px;
+}
+
+#section5{
+    height: 700px;
+    background: rgb(241, 19, 149);
+    display: inline-block;
+    width: 100px;
+}
+
+#section6{
+    height: 700px;
+    background: rgb(218, 60, 121);
+    display: inline-block;
+    width: 100px;
+}
