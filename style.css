@@ -104,3 +104,8 @@ p{
 #socials{
      text-align: center;
 }
+
+.main-content-wrapper .main-content-body{
+    display: flex;
+    text-align: center;
+}
