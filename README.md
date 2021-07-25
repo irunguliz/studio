@@ -17,7 +17,7 @@ To use this portfolio you need to have strong internet connection and access it 
 # Bugs
 It runs properly as long as you have strong network connection.
 # Live link to delani studios
-<a href="https://irunguliz.github.io/Irungu/"> delani studios</a>
+<a href="https://irunguliz.github.io/studio/"> delani studios</a>
 
 # Delani studios Image
 <img src= "photos/delani.png">
