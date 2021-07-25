@@ -1,11 +1,11 @@
 $(document).ready(function(){
-$('#design').toogle();
+$('#design').toggle();
 });
 
 $(document).ready(function(){
-    $('#development').toogle();
+    $('#development').toggle();
     });
 
     $(document).ready(function(){
-        $('#product').toogle();
+        $('#product').toggle();
         });
