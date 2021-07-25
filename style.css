@@ -108,4 +108,13 @@ p{
 .main-content-wrapper .main-content-body{
     display: flex;
     text-align: center;
+    margin: 0 5%;
+    padding: 0;
+}
+
+.main-content-wrapper .main-content-body span
+{
+   display: flex; 
+   flex-direction: column;
+   align-items: center;
 }
