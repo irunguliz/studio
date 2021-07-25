@@ -92,6 +92,7 @@ a{
     object-fit: cover;
     display: inline-block;
     width: 100%;
+    color: white;
 }
 
 h1{
