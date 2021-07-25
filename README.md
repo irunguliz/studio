@@ -20,14 +20,7 @@ It runs properly as long as you have strong network connection.
 <a href="https://irunguliz.github.io/Irungu/"> delani studios</a>
 
 # Delani studios Image
-<img src= "photos/generator.png">
-
-# Behaviour Driven Development
-| Behaviour | Input example  | output example  |
-| :---:   | :-: | :-: |
-| Generates day of the week born | (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7 | Friday|
-|Gives a male Akan name | Monday | Kwadwo|
-|Gives a female Akan name| Tuesday| Abenaa|
+<img src= "photos/delani.png">
 
 # Contact information
 To reach me you can find me here 0727566767
