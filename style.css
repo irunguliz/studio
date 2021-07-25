@@ -29,7 +29,7 @@ li{
 a{
     padding: 20px;
     width: 100px;
-    display: block;
+    display: none;
     text-decoration: none;
     color: mediumvioletred;
     text-transform: uppercase;
