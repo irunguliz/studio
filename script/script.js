@@ -1,18 +1,17 @@
-$(document).ready(function () {
-    $('#design').on('click', function () {
-        $('#design').show();
+$(document).ready(function() {
+    $("#do-toggle").click(function(){
+       $("#design").hide();
     });
 });
 
-
-$(document).ready(function () {
-    $('#development').on('click', function () {
-        $('#development').show();
+$(document).ready(function() {
+    $("#what-toggle").click(function(){
+       $("#product").hide();
     });
 });
 
-$(document).ready(function () {
-    $('#product').on('click', function () {
-        $('#product').show();
+$(document).ready(function() {
+    $("#we-toggle").click(function(){
+       $("#development").hide();
     });
 });
