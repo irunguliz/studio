@@ -1,17 +1,17 @@
 $(document).ready(function() {
     $("#do-toggle").click(function(){
-       $("#design").hide();
+       $("#design").toggle();
     });
 });
 
 $(document).ready(function() {
     $("#what-toggle").click(function(){
-       $("#product").hide();
+       $("#product").toggle();
     });
 });
 
 $(document).ready(function() {
     $("#we-toggle").click(function(){
-       $("#development").hide();
+       $("#development").toggle();
     });
 });

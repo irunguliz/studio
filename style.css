@@ -120,3 +120,15 @@ p{
    justify-content: space-between;
    padding: 20px;
 }
+
+#design{
+    display: none;
+}
+
+#development{
+    display: none;
+}
+
+#product{
+    display: none;
+}
