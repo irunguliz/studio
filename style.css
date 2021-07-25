@@ -79,8 +79,13 @@ a{
 #section5{
     height: 700px;
     background: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    object-fit: cover;
     display: inline-block;
     width: 100%;
+    
 }
 
 #section6{
@@ -140,7 +145,6 @@ p{
 
 .form{
     background: none;
-    margin: auto;
     display: inline;
 }
 
