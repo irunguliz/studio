@@ -141,6 +141,13 @@ p{
 .form{
     background: none;
     margin: auto;
-    
+    display: inline;
 }
 
+#name{
+    float: left;
+}
+
+#email{
+    float: left;
+}
