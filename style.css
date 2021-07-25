@@ -67,21 +67,25 @@ a{
 
 #section4{
     height: 700px;
-    background: rgb(255, 251, 0);
+    background: white);
     display: inline-block;
     width: 100%;
 }
 
 #section5{
     height: 700px;
-    background: rgb(241, 19, 149);
+    background: white);
     display: inline-block;
     width: 100%;
 }
 
 #section6{
     height: 700px;
-    background: rgb(19, 116, 99);
+    background-image: url("photos/seat.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    object-fit: cover;
     display: inline-block;
     width: 100%;
 }
