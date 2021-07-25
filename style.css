@@ -45,6 +45,8 @@ a{
     object-fit: cover;
     display: inline-block;
     width: 100%;
+    color: white;
+    font-size: 20px;
 }
 
 #section2{
