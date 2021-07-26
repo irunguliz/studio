@@ -155,3 +155,45 @@ p{
 #email{
     float: left;
 }
+
+.portfolio1, .portfolio2, .portfolio3, .portfolio4, .portfolio5, .portfolio6, .portfolio7, .portfolio8{
+    color: white;
+    border: 5px solid white;
+    top: 500%;
+    position: absolute;
+    left: 5%;
+    height: 200px;
+    width: 200px;
+    /* display: none; */
+}
+
+.portfolio2{
+    left: 26%;
+}
+
+.portfolio3{
+    left: 50%;
+}
+
+.portfolio4{
+    left: 72%;
+}
+
+.portfolio5{
+    top: 550%;
+}
+
+.portfolio6{
+    top: 550%;
+    left: 25%;
+}
+
+.portfolio7{
+    top: 550%;
+    left: 50%;
+}
+
+.portfolio8{
+    top: 550%;
+    left: 70%;
+}
